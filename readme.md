@@ -31,7 +31,7 @@ This project implements a digital DC-DC converter using the AT89C52 (8051 family
 | INT0/INT1 | P3.2/P3.3 | External Interrupts |
 
 ---
-
+<img width="1347" height="934" alt="Screenshot 2025-07-19 213151" src="https://github.com/user-attachments/assets/23e5a61a-73ed-4798-ac09-1a49f134fbec" />
 ## Code Structure
 
 - **Interrupt Vectors:**
